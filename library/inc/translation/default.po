@@ -1,0 +1,1868 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: foundry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: awtheme <contact@awtheme.com>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.3\n"
+"Language: english\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Text in echo
+#: foundry/content-frontpage.php:47 foundry/single-portfolio.php:24
+#: foundry/single.php:24 foundry/content.php:40
+msgid " in category "
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:63 foundry/content-frontpage.php:64
+#: foundry/content-portfolio.php:55 foundry/archive-portfolio.php:63
+#: foundry/content.php:51 foundry/search.php:38
+#: foundry/taxonomy-portfolio-category.php:65
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#. Text in function
+#: foundry/functions.php:96
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "(will not be published)"
+msgstr ""
+
+#. Text in echo
+#: foundry/taxonomy-portfolio-category.php:76
+msgid "Category Not Found!"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:23 foundry/archive-portfolio.php:23
+msgid "Daily Archives:"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: foundry/404.php:15
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#. Text in function
+#: foundry/library/foundry.php:1
+msgid "Footer Links"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Log out"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:27 foundry/archive-portfolio.php:27
+msgid "Monthly Archives:"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64 foundry/admin/functions/functions.options.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:66 foundry/content-frontpage.php:67
+#: foundry/content-portfolio.php:58 foundry/archive-portfolio.php:66
+#: foundry/content.php:54 foundry/search.php:41
+#: foundry/taxonomy-portfolio-category.php:68
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-frontpage.php:75 foundry/content-portfolio.php:66
+#: foundry/content.php:62
+msgid "Nothing Found!"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:74 foundry/archive-portfolio.php:74
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-page.php:33
+msgid "Page Not Found!"
+msgstr ""
+
+#. Text in echo
+#: foundry/sidebar-frontpage.php:11 foundry/sidebar.php:10
+#: foundry/sidebar-2.php:10 foundry/sidebar-frontpage-2.php:11
+msgid "Please add some widgets."
+msgstr ""
+
+#. Text in echo
+#: foundry/single-portfolio.php:40 foundry/single.php:40
+msgid "Post Not Found!"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:41 foundry/archive-portfolio.php:41
+#: foundry/search.php:14
+msgid "Posted"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-frontpage.php:44 foundry/single-portfolio.php:21
+#: foundry/single.php:21 foundry/content.php:37 foundry/content-page.php:15
+msgid "Posted: "
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:19 foundry/archive-portfolio.php:19
+msgid "Posts By:"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:9 foundry/archive-portfolio.php:9
+msgid "Posts Categorized:"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:13 foundry/archive-portfolio.php:13
+msgid "Posts Tagged:"
+msgstr ""
+
+#. Text in function
+#: foundry/functions.php:109
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: foundry/functions.php:109
+msgid "Search for:"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-frontpage.php:80 foundry/content.php:67
+#: foundry/content-page.php:38
+msgid "Something is missing. Try double checking things."
+msgstr ""
+
+#. Text in echo
+#: foundry/search.php:50
+msgid "Sorry, No Results."
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: foundry/library/foundry.php:1
+msgid "The Main Menu"
+msgstr ""
+
+#. Text in echo
+#: foundry/404.php:20
+msgid ""
+"The article you were looking for was not found, but maybe try looking again!"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-portfolio.php:71
+msgid "There are no items in your portfolio."
+msgstr ""
+
+#. Text in echo
+#: foundry/content-page.php:43
+msgid "This is an error message in content-page.php"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-portfolio.php:76
+msgid "This is an error message in content-portfolio.php"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-frontpage.php:85 foundry/content.php:72
+msgid "This is an error message in content.php"
+msgstr ""
+
+#. Text in echo
+#: foundry/404.php:30
+msgid "This is the 404.php template."
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:84 foundry/archive-portfolio.php:84
+msgid "This is the error message in the archive.php template."
+msgstr ""
+
+#. Text in echo
+#: foundry/taxonomy-portfolio-category.php:86
+msgid "This is the error message in the portfolio category template."
+msgstr ""
+
+#. Text in echo
+#: foundry/search.php:60
+msgid "This is the error message in the search.php template."
+msgstr ""
+
+#. Text in echo
+#: foundry/single-portfolio.php:50 foundry/single.php:50
+msgid "This is the error message in the single post template."
+msgstr ""
+
+#. Text in echo
+#: foundry/comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: foundry/search.php:55
+msgid "Try your search again."
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:79 foundry/single-portfolio.php:45
+#: foundry/single.php:45 foundry/archive-portfolio.php:79
+#: foundry/taxonomy-portfolio-category.php:81
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:31 foundry/archive-portfolio.php:31
+msgid "Yearly Archives:"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "You can use these tags"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Your Comment here..."
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Your E-Mail*"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "Your Name*"
+msgstr ""
+
+#. Text in echo
+#: foundry/functions.php:100
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:45 foundry/archive-portfolio.php:45
+#: foundry/search.php:18
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: foundry/content-frontpage.php:46 foundry/single-portfolio.php:23
+#: foundry/single.php:23 foundry/content.php:39 foundry/content-page.php:15
+msgid "by "
+msgstr ""
+
+#. Text in echo
+#: foundry/archive.php:48 foundry/archive-portfolio.php:48
+#: foundry/search.php:21
+msgid "filed under"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Add Captions to the slides."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Add some custom CSS to your theme by writing it here."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Admin Options"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Adsense Code"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Advance Speed"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Advertisement Image"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Advertising"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Allow slides to advance automatically."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Animaion"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Animation Speed"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Auto Advance"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Backgrounds"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Blockquotes"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Body Background"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Bottom Center"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Bottom Left"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Bottom Right"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Bullet navigation for the slider."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Call To Action"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Caption Animation"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Center Center"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Center Left"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Center Right"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Change the URL that the logo on the WordPress login page links to."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Change the logo for the WordPress login page. The image size should be 275px "
+"by 65px."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Change the logo image for the theme options panel."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Change the title for the logo on the WordPress login page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Check this box to change the layout of posts on the front page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Check this box to display breadcrumbs on each page of your website."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a background color for the site info below the footer."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for breadcrumb links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for breadcrumb links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for breadcrumb separators."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for footer links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for footer links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for menu links active state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for menu links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for menu links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for number background on hover."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for post title links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for post title links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for sidebar links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for submenu links active state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for submenu links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for submenu links."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the active menu item border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the active number background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the active pagination text."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the active submenu item border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the breadcrumbs background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the breadcrumbs border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the call to action panel background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the call to action panel border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the content background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the menu background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the menu hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the menu item active state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the menu item border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the pagination text."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the sidebar widget background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the sidebar widget border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the submenu active state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the submenu background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the submenu hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for the submenu item border."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Choose a color for widget links hover state."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Contact Email"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Contact Information"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Contact Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Content Background"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Content Display"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Customize the look of the login page by adding your own CSS."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Default Thumbnail"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Destination URL"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Display meta on pages and page templates."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Email address for the Contact Page form. Defaults to the admin email address "
+"in <a href=\"options-general.php\">General Settings</a>."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable Ads"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable Bullets"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable Captions"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable pagination on front page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable tags on front page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable tags on news page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable tags on posts page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable the slider on the front page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable the slider on the news page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable thumbnails on front page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable thumbnails on news page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable thumbnails on posts page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enable titles on front page posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter a separator for breadcrumbs."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter a title for the front page in breadcrumbs."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter the URL where this advertisement image points to."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter the number of words for the excerpts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter the text for read more links on posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Enter your adsense code (or other ad network code) here."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Error Messages"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Error message for an empty email field."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Error message for an empty message textbox."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Error message for an empty name field."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Error message for an invalid email address."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Excerpt Length"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Fade"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Footer Background"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Footer Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Footer Options"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Form Options"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Front Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Front Page Post Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Front Posts"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Header Background"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Headers"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Horizontal Post Grid"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Horizontal Push"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Horizontal Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "How long between transitions in ms."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Links"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Main body text."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Map Code"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Menu Backgrounds"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Menu Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Meta On Pages"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Navigation Links"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Navigation Text"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "News Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "News Page Post Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "News Page Slider Category"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "News Posts"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Next/Prev"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "No Repeat"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Number of Items Per Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Number of Posts"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Number of Posts Per Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Number of Slides"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Numbers"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Organization"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Other Backgrounds"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Other Text"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Page Options"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pagination"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pagination Link Colors"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pagination Style"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header.php of your theme."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Paste your Google Maps (or other) map code here. You will need to adjust the "
+"height and width to fit the page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pause On Hover"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pause On Navigation Click"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pause slides on mouse hover."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Pause slides when the navigation buttons are clicked."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Phone number"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Portfolio Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Portfolio Item Display"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Portfolio Item Meta"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Portfolio Items"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Portfolio Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Meta"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Options"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Separator Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Thumbnails"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Title Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Post Titles"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Posts Page"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Read More Link"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Repeat"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Repeat X"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Repeat Y"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select a category for the slider."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select a color for the border around post thumbnails."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select a color for the horizontal rule that separates posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select how to repeat your image."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select specifc categories for the portfolio page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select specifc categories for the posts page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select specifc post categories for the front page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select specifc post categories for the news page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of columns for the first sidebar."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of columns for the second sidebar."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of columns for the sidebar."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of columns main content area."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of columns."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the number of mobile columns."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the position for your image."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the space between the columns."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the style of pagination you would like to use."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the type of animation for captions."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the type of animation for the slider."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the type of meta to be displayed."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the type of post meta to be displayed on portfolio items."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select the type of post meta to be displayed on posts."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select whether or not to show the the excerpt with the thumbnail."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Select whether to show the the excerpt of a post or the full content."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Send Completed Message"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Set the maximum site width in pixels."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Sidebar Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Site Info Left"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Site Info Right"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Site Width"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Slide Open"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Slider Category"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Slider Settings"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Speed of the animation in ms."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Submenu"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Submenu Link Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Switch on to enable advertising on your site."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Text displayed on the page after successfully sending the contact form."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Text for the call to action panel on the front page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Text for the left area at the bottom of the footer."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Text for the right area at the bottom of the footer."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The Content"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The Excerpt"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The Grid"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The maximum number of slides in the slideshow."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The number of posts displayed on the front page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"The number of posts per page for the news page. Default is set in the <a "
+"href=\"options-reading.php\">Reading Settings</a>."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "The number of posts per page for the posts page."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"The number of posts per page for the posts page.  Default is set in the <a "
+"href=\"options-reading.php\">Reading Settings</a>."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Theme Options Panel Logo"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Three Column Layout"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Thumbnails"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Thumbnails & Excerpt"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Top Center"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Top Left"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Top Right"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Two Column Layout"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Upload a 16px x 16px ico image that will represent your website&#39;s "
+"favicon."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid ""
+"Upload a default thumbnail to display next to each post. This image is shown "
+"when a post does not have an image or a featured image."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Upload a logo for your theme, or specify an image URL directly."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Upload an image for an advertisement, or specify an image URL directly."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Upload an image for the background."
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Vertical Push"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Vertical Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "Widget Titles"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "WordPress Login Image"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "WordPress Login Image Link"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "WordPress Login Image Title"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.options.php:1
+msgid "WordPress Login Page CSS"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "(required)"
+msgstr ""
+
+#. Text in function
+#: foundry/functions.php:94
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add New Slide Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add New Tag"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Add or remove Portfolio Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "All Portfolio Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "All Portfolio Items"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "All Portfolio Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "All Slide Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "All Slides"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Choose from the most used Portfolio Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Edit Slide Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Edit Tag"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/sidebars.php:1
+msgid "Invalid sidebar ID"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/classes/class.options_machine.php:1
+msgid "Last Backup : "
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "New Slide Category Name"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "New Tag Name"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: foundry/admin/functions/functions.mediauploader.php:199
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: foundry/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Parent Slide Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Parent Slide Category:"
+msgstr ""
+
+#. Text in echo
+#: foundry/library/includes/menus.php:1
+msgid "Please add a menu."
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#. Text in echo
+#: foundry/admin/front-end/options.php:43
+#: foundry/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Search Portfolio"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Search Slide Categories"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Search Slides"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Separate Portfolio Tags with commas"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Update Portfolio Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Update Slide Category"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "Update Tag"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "View Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: foundry/library/includes/cpt.php:1
+msgid "View Slide"
+msgstr ""
+
+#. Text in function
+#: foundry/comments.php:64
+msgid "aria-required='true'"
+msgstr ""
+
+#. Text in echo
+#: foundry/library/foundry.php:216
+msgid "foundrytheme"
+msgstr ""
