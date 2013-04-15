@@ -65,7 +65,7 @@ function reactor_customizer_css() {
 	
 	echo ( $output ) ? '<style>' . apply_filters('reactor_customizer_css', $output) . "\n" . '</style>' . "\n" : '';
 }
-add_action('reactor_head', 'reactor_customizer_css');
+add_action('wp_head', 'reactor_customizer_css');
 
 /**
  * Add Fonts
