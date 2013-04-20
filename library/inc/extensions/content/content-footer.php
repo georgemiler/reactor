@@ -68,7 +68,7 @@ function reactor_do_footer_content() { ?>
 					<?php if ( reactor_option('footer_siteinfo') ) : echo reactor_option('footer_siteinfo'); else : ?>
 					<p><span class="copyright">&copy;<?php echo date_i18n('Y'); ?> <?php bloginfo('name'); ?> | </span>
                         
-					<span class="site-source"><?php _e('Powered by ', 'reactor'); ?><a href="<?php echo esc_url('http://wordpress.org/'); ?>" title="<?php esc_attr_e('Personal Publishing Platform', 'reactor'); ?>">WordPress</a> &amp; <a href="<?php echo esc_url('http://awtheme.com/reactor/') ?>" title="<?php esc_attr_e('WordPress Parent Theme', 'reactor'); ?>">Reactor</a></span></p>
+					<span class="site-source"><?php _e('Powered by ', 'reactor'); ?><a href="<?php echo esc_url('http://wordpress.org/'); ?>" title="<?php esc_attr_e('Personal Publishing Platform', 'reactor'); ?>">WordPress</a> &amp; <a href="<?php echo esc_url('http://awtheme.com/') ?>" title="<?php esc_attr_e('WordPress Parent Theme', 'reactor'); ?>">Reactor</a></span></p>
 					<?php endif; ?>
 				</div><!-- #colophon -->
 			</div><!-- .columns -->
