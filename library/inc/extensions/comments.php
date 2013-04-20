@@ -55,7 +55,7 @@ if ( !function_exists('reactor_comments') ) :
 					<?php edit_comment_link( __('Edit', 'reactor'), '<div class="edit-link"><span>', '</span></div>'); ?>
 				</div><!-- .comment-content -->
 				<div class="reply comment-reply-button">
-					<?php comment_reply_link( array_merge( $args, array('reply_text' => __('Reply', 'reactor'), 'before' => '<span class="button small">', 'after' => '</span>', 'depth' => $depth, 'max_depth' => $args['max_depth'] ) ) ); ?>
+					<?php comment_reply_link( array_merge( $args, array('reply_text' => __('Reply', 'reactor'), 'before' => '', 'after' => '', 'depth' => $depth, 'max_depth' => $args['max_depth'] ) ) ); ?>
 				</div><!-- .reply -->
 			</article><!-- #comment-## -->
 		<?php

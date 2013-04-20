@@ -30,6 +30,7 @@
  * 17. Add classes to body tag
  * 18. Return dynamic sidebar content
  * 19. Change Sticky Class
+ * 20. Add Comment Reply Class
  */
 
 /**
@@ -58,9 +59,10 @@ if ( !function_exists('reactor_wp_cleanup') ) {
 		add_filter('post_class', 'reactor_single_post_class'); // adds class to single posts
 		add_filter('body_class', 'reactor_topbar_body_class'); // adds class to body
 		add_filter('post_class','reactor_change_sticky_class'); // change sticky class
+		add_filter('comment_reply_link', 'reactor_comment_reply_class'); // add comment reply class
 	}
 }
-add_action('after_setup_theme', 'reactor_wp_cleanup', 17);
+add_action('after_setup_theme', 'reactor_wp_cleanup', 14);
 
 /**
  * 1. Head Clean Up
@@ -350,5 +352,15 @@ function reactor_change_sticky_class( $classes ) {
 		}
 	}
 	return $classes;
+}
+
+/**
+ * 20. Add Comment Reply Class
+ * add the button class to the reply link in comments
+ *
+ * @since 1.0.0
+ */  
+function reactor_comment_reply_class( $link ) {
+	return str_replace("class='comment-reply-link'", "class='comment-reply-link button small'", $link);
 }
 ?>
