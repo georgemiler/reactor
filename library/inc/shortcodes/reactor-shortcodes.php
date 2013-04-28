@@ -28,7 +28,7 @@ class ReactorShortcodes {
 	 */
 	function init()
 	{
-		if( ! is_admin() )
+		if( is_admin() )
 		{
 			wp_enqueue_script( 'jquery-ui-accordion' );
 			wp_enqueue_script( 'jquery-ui-tabs' );

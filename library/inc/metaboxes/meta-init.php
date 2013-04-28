@@ -447,7 +447,7 @@ class Reactor_Add_Meta_Box {
 	 */
 	function meta_box_enqueue_scripts() {
 		global $pagenow;
-		if ( in_array( $pagenow, array( 'post-new.php', 'post.php' ) ) && in_array( get_post_type(), $this->page ) ) {
+		if ( is_admin() && in_array( $pagenow, array( 'post-new.php', 'post.php' ) ) && in_array( get_post_type(), $this->page ) ) {
 			// js
 			$deps = array( 'jquery' );
 			if ( meta_box_find_field_type( 'date', $this->fields ) )
