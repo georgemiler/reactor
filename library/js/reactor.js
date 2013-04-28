@@ -156,10 +156,6 @@
 	}
 	
 	/* Initialize Foundation Scripts */
-	$(document)
-		.foundation()
-		.foundation('topbar', 'off')
-		.foundation('topbar', {stickyClass: 'sticky-top-bar'});
-	
+	$(document).foundation();
 
 })( jQuery );	
