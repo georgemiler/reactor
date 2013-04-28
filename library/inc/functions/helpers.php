@@ -29,7 +29,8 @@
  * 16. Add classes to a single post
  * 17. Add classes to body tag
  * 18. Return dynamic sidebar content
- * 19. Add Comment Reply Class
+ * 19. Change Sticky Class
+ * 20. Add Comment Reply Class
  */
 
 /**
@@ -57,6 +58,7 @@ if ( !function_exists('reactor_wp_cleanup') ) {
 		add_action('wp_head', 'reactor_admin_bar_fix', 5); // fixes CSS output for front end admin bar
 		add_filter('post_class', 'reactor_single_post_class'); // adds class to single posts
 		add_filter('body_class', 'reactor_topbar_body_class'); // adds class to body
+		add_filter('post_class','reactor_change_sticky_class'); // change sticky class
 		add_filter('comment_reply_link', 'reactor_comment_reply_class'); // add comment reply class
 	}
 }
@@ -336,7 +338,24 @@ function get_dynamic_sidebar( $index = 1 ) {
 }
 
 /**
- * 19. Add Comment Reply Class
+ * 19. Change Sticky Class
+ * sticky class on posts conflicts with Foundation js
+ *
+ * @since 1.0.0
+ */
+function reactor_change_sticky_class( $classes ) {
+	$count = count( $classes );
+	for ( $i=0; $i < $count; $i++ ) {
+		if ( $classes[$i] == 'sticky' ) {
+			$classes[$i] = 'sticky-post';
+			$classes[] = 'featured';
+		}
+	}
+	return $classes;
+}
+
+/**
+ * 20. Add Comment Reply Class
  * add the button class to the reply link in comments
  *
  * @since 1.0.0

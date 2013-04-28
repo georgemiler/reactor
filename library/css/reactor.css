@@ -51,10 +51,6 @@ ul, ol, dl {
 #slider-front-page {
 	padding:1.063em 0 0
 }
-/* Fix sticky class on posts with Foundation */
-.post.sticky {
-	position: static !important;
-}
 /* Temp. fix for pre/postfix buttons */
 input.button.prefix, input.button.postfix {
 	padding-top:0;
