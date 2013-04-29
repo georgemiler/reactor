@@ -9,7 +9,7 @@
     /* adjust site for fixed top-bar with wp admin bar */
     if($('body').hasClass('admin-bar')) {
 		if($('body').hasClass('has-top-bar')) {
-	    	$('.top-bar').parent().css('top', "+=28");
+	    	$('.top-bar').parent().css('margin-top', "+=28");
 		}
 		if($('.top-bar').parent().hasClass('fixed')) {
 			$('body').css('padding-top', "+=28");
